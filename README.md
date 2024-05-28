@@ -1,7 +1,7 @@
 
-nome matheus azevedo soares
-mogi das cruzes aruan
-idade 18
-curso informatica
-proficao estelionataria
-gosto de futebol
+Sou Matheus Azevedo Soares, m oro em
+Mogi, Condominio Aruã,
+Idade 18,
+Curso informatica,
+Profissoa estudande,
+Gosto de futebol
